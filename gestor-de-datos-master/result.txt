@@ -1,0 +1,4 @@
+...file C:\Users\ig239\OneDrive\Escritorio\ETL_GESTOR\gestor-de-datos-master\result\csv.json processed
+...file C:\Users\ig239\OneDrive\Escritorio\ETL_GESTOR\gestor-de-datos-master\result\xml.json processed
+...file C:\Users\ig239\OneDrive\Escritorio\ETL_GESTOR\gestor-de-datos-master\result\htm.json processed
+...file C:\Users\ig239\OneDrive\Escritorio\ETL_GESTOR\gestor-de-datos-master\result\txt.json processed
