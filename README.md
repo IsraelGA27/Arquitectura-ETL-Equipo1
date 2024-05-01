@@ -1,4 +1,4 @@
-# Arquitectura-ETL-Equipo1
+# Arquitectura-ETL
 
 ## Equipo 1
 
